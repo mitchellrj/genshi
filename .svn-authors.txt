@@ -1,0 +1,11 @@
+athomas = Alec Thomas <alex@swapoff.org>
+cmlenz = Christopher Lenz <cmlenz@gmail.com>
+jonas = Jonas Borgström <jonas@borgstrom.se>
+mgood = Matthew Good <matt@matt-good.net>
+hodgestar = Simon Cross <hodgestar@gmail.com>
+aflett = Alec Flett <alecf@flett.org>
+jruigrok = Jeroen Ruigrok van der Werven <asmodai@in-nomine.org>
+aronacher = Armin Ronacher <armin.ronacher@active-4.com>
+mkurczych = Marcin Kurczych <tharkang@gmail.com>
+palgarvio = Paulo Sérgio Vieira Algarvio <unknown@unknown>
+zzzeek = Mike Bayer <mike@zzzcomputing.com>
